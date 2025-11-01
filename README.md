@@ -96,6 +96,5 @@ To run this project locally, you will need to set up your own Firebase backend.
 5.  **Communicate:** Once they accept your request, they will appear in your chats list. Tap on their name to start messaging, voice calling, or video calling!
 
 The Final one: 
-you can install and use the mobile application as well from here :
-=====
+you can install and use the mobile application as well from here : https://github.com/InvernessPeak/dsAlgo/blob/main/dsAlgo.apk
 
