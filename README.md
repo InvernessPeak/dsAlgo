@@ -4,8 +4,6 @@
 
 Unlike mainstream apps that require personal phone numbers, dsAlgo Chat uses a unique, shareable ID system (`jg-xxxx`), allowing you to connect and communicate securely without revealing your real-world identity. This project is built entirely with vanilla JavaScript, Firebase, and WebRTC, demonstrating a powerful, serverless architecture.
 
-**(Strongly Recommended: Create a short GIF of the app in action and replace this text with it!)**
-![dsAlgo App Demo GIF](link-to-your-demo.gif)
 
 ---
 
