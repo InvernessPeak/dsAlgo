@@ -1,8 +1,8 @@
-# dsAlgo Chat: Your Private, Real-Time Communication Hub
+# dsAlgo Connects: Your Private, Real-Time Communication Hub
 
-**dsAlgo Chat is a full-featured, real-time chat and video calling web application built with a strong focus on user privacy and anonymity.**
+**dsAlgo Connects is a full-featured, real-time chat and video calling web application built with a strong focus on user privacy and anonymity.**
 
-Unlike mainstream apps that require personal phone numbers, dsAlgo Chat uses a unique, shareable ID system (`jg-xxxx`), allowing you to connect and communicate securely without revealing your real-world identity. This project is built entirely with vanilla JavaScript, Firebase, and WebRTC, demonstrating a powerful, serverless architecture.
+Unlike mainstream apps that require personal phone numbers, dsAlgo Connects uses a unique, shareable ID system (`jg-xxxx`), allowing you to connect and communicate securely without revealing your real-world identity. This project is built entirely with vanilla JavaScript, Firebase, and WebRTC, demonstrating a powerful, serverless architecture.
 
 
 ---
@@ -28,7 +28,7 @@ Unlike mainstream apps that require personal phone numbers, dsAlgo Chat uses a u
 
 ## 🛡️ A Focus on Privacy
 
-In a world where every application demands your personal information, dsAlgo Chat offers a refreshing alternative. The core philosophy is to provide a secure and feature-rich communication tool without compromising your anonymity.
+In a world where every application demands your personal information, dsAlgo Connects offers a refreshing alternative. The core philosophy is to provide a secure and feature-rich communication tool without compromising your anonymity.
 
 -   **No Phone Numbers:** Your account is tied to your email for password recovery, but your identity to other users is your unique **dsAlgo ID** (`jg-xxxx`).
 -   **You Control Your Connections:** You can only be contacted by users with whom you have explicitly shared your ID and accepted a friend request.
