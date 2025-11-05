@@ -40,7 +40,7 @@ In a world where every application demands your personal information, dsAlgo Con
 
 ### Live Demo
 
-You can try a live version of the app here: **[dsAlgo Live Demo](https://invernesspeak.github.io/dsAlgo/)**
+You can try a live version of the app here: **[dsAlgo Live Demo](https://invernesspeak.github.io/dsAlgo_Connects/)**
 
 ### Local Installation & Setup
 
